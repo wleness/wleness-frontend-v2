@@ -555,7 +555,7 @@ import JoinUsTherapist from "./images/joinus/joinus-therapist.webp";
 import JoinUsPsychiatrist from "./images/joinus/joinus-psychiatrist.webp";
 import JoinUsInternship from "./images/joinus/joinus-internship.webp";
 import JoinUsCampusAmbassador from "./images/joinus/joinus-campus-ambassador.webp";
-import Bubble from "./images/joinus/Bubble.webp";
+import Bubble from "./images/joinus/bubble.webp";
 import therapistApplyHeader from "./images/joinus/therapist-header.webp";
 import psychiatristApplyHeader from "./images/joinus/psychiatrist-header.webp";
 import doctorDashboard from "./images/joinus/doctor-dashboard.webp";
@@ -686,7 +686,7 @@ export {
   couplesTherapy2,
 };
 // Services >> Musical Healing
-import musicalTherapyHeader from "./images/services/musicalTherapy/musicalHeading.webp";
+import musicalTherapyHeader from "./images/services/musicalTherapy/musicalheading.webp";
 import musicalTherapy1 from "./images/services/musicalTherapy/musical-therapy-1.webp";
 import musicalTherapy2 from "./images/services/musicalTherapy/musical-therapy-2.webp";
 import musicalTherapy3 from "./images/services/musicalTherapy/musical-therapy-3.webp";
@@ -904,7 +904,7 @@ export {
 };
 
 // Internship images
-import internshipHeader from "./images/internship/internshipHeader.webp";
+import internshipHeader from "./images/internship/internshipheader.webp";
 import internshipIcon1 from "./images/internship/internship-icon-1.webp";
 import internshipIcon2 from "./images/internship/internship-icon-2.webp";
 import internshipIcon3 from "./images/internship/internship-icon-3.webp";

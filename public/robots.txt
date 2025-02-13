@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /private/
+Disallow: /experts-login/
+Disallow: /login/
+Disallow: /forgot-password/
+Disallow: /user/
+Disallow: /gauth/
+Disallow: /avatar/
+
+
+Sitemap: https://wleness.com/sitemap.xml

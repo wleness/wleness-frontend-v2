@@ -686,7 +686,7 @@ export {
   couplesTherapy2,
 };
 // Services >> Musical Healing
-import musicalTherapyHeader from "./images/services/musicalTherapy/musicalHeading.webp";
+import musicalTherapyHeader from "./images/services/musicalTherapy/musicalheading.webp";
 import musicalTherapy1 from "./images/services/musicalTherapy/musical-therapy-1.webp";
 import musicalTherapy2 from "./images/services/musicalTherapy/musical-therapy-2.webp";
 import musicalTherapy3 from "./images/services/musicalTherapy/musical-therapy-3.webp";

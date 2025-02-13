@@ -555,7 +555,7 @@ import JoinUsTherapist from "./images/joinus/joinus-therapist.webp";
 import JoinUsPsychiatrist from "./images/joinus/joinus-psychiatrist.webp";
 import JoinUsInternship from "./images/joinus/joinus-internship.webp";
 import JoinUsCampusAmbassador from "./images/joinus/joinus-campus-ambassador.webp";
-import Bubble from "./images/joinus/Bubble.webp";
+import Bubble from "./images/joinus/bubble.webp";
 import therapistApplyHeader from "./images/joinus/therapist-header.webp";
 import psychiatristApplyHeader from "./images/joinus/psychiatrist-header.webp";
 import doctorDashboard from "./images/joinus/doctor-dashboard.webp";

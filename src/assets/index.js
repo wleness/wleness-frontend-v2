@@ -220,22 +220,22 @@ export {
   executiveimage3,
 };
 
-import meditationCheckoutBg from "./images/meditationcheckoutBg.png";
-import sadhnaCheckoutBg from "./images/sadhnacheckoutBg.png";
-import yogaCheckoutBg from "./images/sadhnacheckoutBg.png";
+import meditationCheckoutBg from "./images/meditationCheckoutBg.png";
+import sadhnaCheckoutBg from "./images/sadhnaCheckoutBg.png";
+import yogaCheckoutBg from "./images/sadhnaCheckoutBg.png";
 
 export { meditationCheckoutBg, sadhnaCheckoutBg, yogaCheckoutBg };
 // Coaches
-import saloniHeader from "./images/coaches/saloniGuptaHeader.webp";
-import saloniBottom from "./images/coaches/saloniBottom.webp";
-import saloniMid from "./images/coaches/saloniMid.webp";
-import anjuHeader from "./images/coaches/anjuHeader.webp";
-import anjuBottom from "./images/coaches/anjuBottom.webp";
-import anjuMid from "./images/coaches/anjuMid.webp";
+import saloniHeader from "./images/coaches/saloniguptaheader.webp";
+import saloniBottom from "./images/coaches/salonibottom.webp";
+import saloniMid from "./images/coaches/salonimid.webp";
+import anjuHeader from "./images/coaches/anjuheader.webp";
+import anjuBottom from "./images/coaches/anjubottom.webp";
+import anjuMid from "./images/coaches/anjumid.webp";
 import leaf from "./images/coaches/leaf.webp";
-import andreaHeader from "./images/coaches/andreaHeader.webp";
-import andreaMid from "./images/coaches/andreaMid.webp";
-import andreaBottom from "./images/coaches/andreaBottom.webp";
+import andreaHeader from "./images/coaches/andreaheader.webp";
+import andreaMid from "./images/coaches/andreamid.webp";
+import andreaBottom from "./images/coaches/andreabottom.webp";
 
 export {
   saloniBottom,
@@ -291,7 +291,7 @@ import activitiesExplore1 from "./images/activities/activities-explore-1.png";
 import activitiesExplore2 from "./images/activities/activities-explore-2.png";
 import activitiesExplore3 from "./images/activities/activities-explore-3.png";
 // Activities >> Meditation
-import meditationHeader from "./images/activities/meditation/meditationHeader.webp";
+import meditationHeader from "./images/activities/meditation/meditationheader.webp";
 import meditationType1 from "./images/activities/meditation/meditation-type-1.webp";
 import meditationType2 from "./images/activities/meditation/meditation-type-2.webp";
 import meditationType3 from "./images/activities/meditation/meditation-type-3.webp";
@@ -302,29 +302,29 @@ import meditationType7 from "./images/activities/meditation/meditation-type-7.we
 import meditationType8 from "./images/activities/meditation/meditation-type-8.webp";
 import meditationThumbnail from "./images/activities/meditation/meditationThumbnail.png";
 // Activities >> Meditation>>subpages
-import breadthBenefit from "./images/activities/meditation/meditationSubpages/breadthBenefit.webp";
-import breadthHeader from "./images/activities/meditation/meditationSubpages/breadthHeader.webp";
-import breadthLeft1 from "./images/activities/meditation/meditationSubpages/breadthLeft1.webp";
-import breadthRight1 from "./images/activities/meditation/meditationSubpages/breadthRight1.webp";
-import breadthRight2 from "./images/activities/meditation/meditationSubpages/breadthRight2.webp";
-import kundaliniHeader from "./images/activities/meditation/meditationSubpages/kundaliniHeader.webp";
-import kundaliniLeft1 from "./images/activities/meditation/meditationSubpages/kundaliniLeft1.webp";
-import kundaliniRight1 from "./images/activities/meditation/meditationSubpages/kundaliniRight1.webp";
-import mindfulnessHeader from "./images/activities/meditation/meditationSubpages/mindfulnessHeader.webp";
-import mindfulnessLeft2 from "./images/activities/meditation/meditationSubpages/mindfulnessLeft2.webp";
-import mindfulnessRight1 from "./images/activities/meditation/meditationSubpages/mindfulnessRight1.webp";
-import mindfulnessRight2 from "./images/activities/meditation/meditationSubpages/mindfulnessRight2.webp";
-import mindfulnessLeft3 from "./images/activities/meditation/meditationSubpages/mindfulnessLeft3.webp";
-import mindfulnessLeft1 from "./images/activities/meditation/meditationSubpages/mindfulnessLeft1.webp";
-import spiritualHeader from "./images/activities/meditation/meditationSubpages/spiritualHeader.webp";
-import spiritualLeft1 from "./images/activities/meditation/meditationSubpages/spiritualLeft1.webp";
-import spiritualRight1 from "./images/activities/meditation/meditationSubpages/spiritualRight1.webp";
-import walkingHeader from "./images/activities/meditation/meditationSubpages/walking-Header.webp";
-import walkingLeft1 from "./images/activities/meditation/meditationSubpages/walkingLeft1.webp";
-import walkingRight1 from "./images/activities/meditation/meditationSubpages/walkingRight1.webp";
-import zenHeader from "./images/activities/meditation/meditationSubpages/zenHeader.webp";
-import zenLeft1 from "./images/activities/meditation/meditationSubpages/zenLeft1.webp";
-import zenRight1 from "./images/activities/meditation/meditationSubpages/zenRight1.webp";
+import breadthBenefit from "./images/activities/meditation/meditationSubpages/breadthbenefit.webp";
+import breadthHeader from "./images/activities/meditation/meditationSubpages/breadthheader.webp";
+import breadthLeft1 from "./images/activities/meditation/meditationSubpages/breadthleft1.webp";
+import breadthRight1 from "./images/activities/meditation/meditationSubpages/breadthright1.webp";
+import breadthRight2 from "./images/activities/meditation/meditationSubpages/breadthright2.webp";
+import kundaliniHeader from "./images/activities/meditation/meditationSubpages/kundaliniheader.webp";
+import kundaliniLeft1 from "./images/activities/meditation/meditationSubpages/kundalinileft1.webp";
+import kundaliniRight1 from "./images/activities/meditation/meditationSubpages/kundaliniright1.webp";
+import mindfulnessHeader from "./images/activities/meditation/meditationSubpages/mindfulnessheader.webp";
+import mindfulnessLeft2 from "./images/activities/meditation/meditationSubpages/mindfulnessleft2.webp";
+import mindfulnessRight1 from "./images/activities/meditation/meditationSubpages/mindfulnessright1.webp";
+import mindfulnessRight2 from "./images/activities/meditation/meditationSubpages/mindfulnessright2.webp";
+import mindfulnessLeft3 from "./images/activities/meditation/meditationSubpages/mindfulnessleft3.webp";
+import mindfulnessLeft1 from "./images/activities/meditation/meditationSubpages/mindfulnessleft1.webp";
+import spiritualHeader from "./images/activities/meditation/meditationSubpages/spiritualheader.webp";
+import spiritualLeft1 from "./images/activities/meditation/meditationSubpages/spiritualleft1.webp";
+import spiritualRight1 from "./images/activities/meditation/meditationSubpages/spiritualright1.webp";
+import walkingHeader from "./images/activities/meditation/meditationSubpages/walking-header.webp";
+import walkingLeft1 from "./images/activities/meditation/meditationSubpages/walkingleft1.webp";
+import walkingRight1 from "./images/activities/meditation/meditationSubpages/walkingright1.webp";
+import zenHeader from "./images/activities/meditation/meditationSubpages/zenheader.webp";
+import zenLeft1 from "./images/activities/meditation/meditationSubpages/zenleft1.webp";
+import zenRight1 from "./images/activities/meditation/meditationSubpages/zenright1.webp";
 import vipasnaHeader from "./images/activities/meditation/meditationSubpages/vipasna-header.webp";
 import vipasnaPracticingLeft from "./images/activities/meditation/meditationSubpages/vipasna-practicing-left.webp";
 import vipasnaPracticingRight from "./images/activities/meditation/meditationSubpages/vipasna-practicing-right.webp";

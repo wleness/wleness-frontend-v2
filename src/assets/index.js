@@ -181,7 +181,7 @@ import salonimaam from "./images/aboutus/salonimaam.webp";
 import sreyashsir from "./images/aboutus/sreyashsir.webp";
 import aboutusHeader from "./images/aboutus/aboutus-header.webp";
 import problem from "./images/aboutus/problem.webp";
-import approveIcon from "./images/aboutus/approveIcon.webp";
+import approveIcon from "./images/aboutus/approveicon.webp";
 
 export {
   about1,

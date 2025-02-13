@@ -904,7 +904,7 @@ export {
 };
 
 // Internship images
-import internshipHeader from "./images/internship/internshipHeader.webp";
+import internshipHeader from "./images/internship/internshipheader.webp";
 import internshipIcon1 from "./images/internship/internship-icon-1.webp";
 import internshipIcon2 from "./images/internship/internship-icon-2.webp";
 import internshipIcon3 from "./images/internship/internship-icon-3.webp";

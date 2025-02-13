@@ -8,7 +8,7 @@ import {
 } from "../../assets";
 import { EXPERTS_DASHBOARD, EXPERTS_PROFILE_URI } from "../../data/api";
 import axios from "axios";
-import UpdateExpertSlots from "../../components/Admin/UpdateExpertSlots";
+import UpdateExpertSlots from "../../components/admin/UpdateExpertSlots";
 import { useNavigate } from "react-router-dom";
 import useLogout from "../../components/Auth/useLogout";
 import { Helmet } from "react-helmet";

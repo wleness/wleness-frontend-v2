@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import UserSidebar from "../Admin/UserSidebar";
+import UserSidebar from "../admin/UserSidebar";
 import { palmWave } from "../../assets";
 import { useNavigate } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";

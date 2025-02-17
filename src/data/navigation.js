@@ -42,10 +42,10 @@ export const serviceMenuPages = [
       ["Conduct Disorder", "/therapy/conduct-disorder"],
     ],
   },
-  {
-    name: "Yoga",
-    slug: "/activities/yoga",
-  },
+  // {
+  //   name: "Yoga",
+  //   slug: "/activities/yoga",
+  // },
   {
     name: "Lifestyle & Mindulness Coaching",
     slug: "/life-coaching",
@@ -62,10 +62,10 @@ export const serviceMenuPages = [
     name: "Music Healing",
     slug: "/services/music-healing",
   },
-  {
-    name: "Meditation",
-    slug: "/activities/meditation",
-  },
+  // {
+  //   name: "Meditation",
+  //   slug: "/activities/meditation",
+  // },
 ];
 
 // Activities sub pages
@@ -98,10 +98,10 @@ export const seldCareSubpages = [
     name: "Brain Exercise",
     slug: "/activities/brain-exercise",
   },
-  {
-    name: "Sadhna",
-    slug: "/activities/sadhna",
-  },
+  // {
+  //   name: "Sadhna",
+  //   slug: "/activities/sadhna",
+  // },
 ];
 
 // Menu Pages
@@ -174,7 +174,7 @@ export const footerOurServices = [
   ["Corporate Wellbeing", "/corporate-wellbeing"],
   ["Lifestyle Coaching", "/life-coaching"],
   ["Internship", "/internship"],
-  ["Yoga", "/activities/yoga"],
+  // ["Yoga", "/activities/yoga"],
   // ["Meditation", "/activities/meditation"],
   // ["Internship", "/activities/internship"],
 ];
